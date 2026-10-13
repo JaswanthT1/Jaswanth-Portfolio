@@ -284,7 +284,7 @@ function App() {
       Live Demo ↗
     </a>
 
-```
+ 
 <a
   href="https://github.com/JaswanthT1/RootCause"
   target="_blank"
@@ -292,8 +292,6 @@ function App() {
 >
   GitHub ↗
 </a>
-```
-
   </div>
 </article>
 
