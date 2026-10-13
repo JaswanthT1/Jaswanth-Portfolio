@@ -277,7 +277,7 @@ function App() {
 
   <div className="project-links">
     <a
-      href="https://root-cause-ashy.vercel.app/"
+      href="https://root-cause-9ghefpoja-jaswanth-projects1.vercel.app/"
       target="_blank"
       rel="noopener noreferrer"
     >
