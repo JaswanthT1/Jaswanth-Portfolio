@@ -250,38 +250,53 @@ function App() {
         </div>
       </article>
 
+ <article className="project-card">
+  <div className="project-top">
+    <p className="project-number">02</p>
+    <span className="project-status">LIVE</span>
+  </div>
 
-      <article className="project-card">
-        <div className="project-top">
-          <p className="project-number">02</p>
-          <span className="project-status">BUILDING</span>
-        </div>
+  <h3>RootCause</h3>
 
-        <h3>RootCause</h3>
+  <p className="project-tagline">
+    From error logs to probable root cause.
+  </p>
 
-        <p className="project-tagline">
-          From error logs to probable root cause.
-        </p>
+  <p className="project-description">
+    A log analysis and incident detection application that parses
+    application logs, identifies errors, detects potential incidents,
+    and recommends investigation steps.
+  </p>
 
-        <p className="project-description">
-          An AI-assisted application incident investigator that analyzes
-          application logs, identifies related errors and suggests probable
-          root causes and next investigation steps.
-        </p>
+  <div className="project-tech">
+    <span>Python</span>
+    <span>FastAPI</span>
+    <span>React</span>
+    <span>Log Analysis</span>
+  </div>
 
-        <div className="project-tech">
-          <span>Python</span>
-          <span>FastAPI</span>
-          <span>AI / LLM</span>
-          <span>Log Analysis</span>
-        </div>
+  <div className="project-links">
+    <a
+      href="https://root-cause-ashy.vercel.app/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Live Demo ↗
+    </a>
 
-        <div className="project-links">
-          <a href="#projects">
-            Coming Soon
-          </a>
-        </div>
-      </article>
+```
+<a
+  href="https://github.com/JaswanthT1/RootCause"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  GitHub ↗
+</a>
+```
+
+  </div>
+</article>
+
 
     </div>
 
